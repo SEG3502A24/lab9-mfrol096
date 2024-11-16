@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class TempConverterApiApplication
 
 fun main(args: Array<String>) {
-	runApplication<TempConverterApiApplication>(*args)
+    runApplication<TempConverterApiApplication>(*args)
 }
